@@ -7,7 +7,6 @@ todoList.addEventListener("click", (e) => {
   if (e.target.className === "done-btn") {
     e.target.parentNode.classList.toggle("done");
     const element = e.target.parentNode;
-    // console.log(element);
     ceheckStatusForDone(element);
   } else {
     return;

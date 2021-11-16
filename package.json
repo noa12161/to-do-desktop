@@ -1,0 +1,24 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noa12161/to-do-desktop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noa12161/to-do-desktop/issues"
+  },
+  "homepage": "https://github.com/noa12161/to-do-desktop#readme",
+  "dependencies": {
+    "parcel": "^2.0.1"
+  }
+}

@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Caveat", cursive;
+  font-family: "Dongle", sans-serif;
+  font-family: "Lato", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Yuji Syuku", serif;
+}
+ul,
+li {
+  list-style: none;
+}
+:root {
+  --dark-blue: rgb(13, 13, 54);
+}
+
+/*# sourceMappingURL=index.3b30eb03.css.map */
